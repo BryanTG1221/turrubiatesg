@@ -1,3 +1,4 @@
+package javadevelop;
 public class Actividad1 {
     public static void main(String[] args) {
         int ValorAnterior= 0;
